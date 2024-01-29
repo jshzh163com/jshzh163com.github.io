@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mechanical Engineering at University of Ottawa, supervised by [Prof. Patrick Dumond](https://engineering.uottawa.ca/people/dumond-patrick). In 2021, I received my Master's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/), supervised by [Prof. Juanjuan Shi](https://web.suda.edu.cn/jshi091/). In 2018, I received my Bachelor's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/).
+I am currently a PhD student in Mechanical Engineering at [University of Ottawa](https://www.uottawa.ca/en), supervised by [Prof. Patrick Dumond](https://engineering.uottawa.ca/people/dumond-patrick). In 2021, I received my Master's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/), supervised by [Prof. Juanjuan Shi](https://web.suda.edu.cn/jshi091/). In 2018, I received my Bachelor's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/).
 
 Research interests
 ======

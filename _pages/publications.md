@@ -68,7 +68,7 @@ Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Fen
 
 <li><p> <b>Matching linear Chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
 <b>Zehui Hua</b>, Juanjuan Shi, Xingxing Jiang and Zhongkui Zhu <br>
-in <i>2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)</i>, 2020 <br>
+<i>2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)</i>, 2020 <br>
 <a href="https://doi.org/10.1109/APARM49247.2020.9209406" class="textlink" target="_blank">[pdf]</a>
 </p>
 </li>

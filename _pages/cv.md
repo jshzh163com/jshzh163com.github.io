@@ -11,49 +11,88 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering, [University of Ottawa](https://www.uottawa.ca/en), Ottawa, ON, CA, 2021-
+  * Supervised by [Prof. Patrick Dumond](https://engineering.uottawa.ca/people/dumond-patrick)
+* Master in Vehicle Engineering, [Soochow University (苏州大学)](http://eng.suda.edu.cn/), Suzhou, CN, 2018-2021
+  * Supervised by [Prof. Juanjuan Shi](https://web.suda.edu.cn/jshi091/)
+* Bachelor in Vehicle Engineering, [Soochow University (苏州大学)](http://eng.suda.edu.cn/), Suzhou, CN, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Teaching Assistant for MCG3131 Machine Design
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Teaching Assistant for MCG2108 Mechanics
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+ 
+* Spring/Summer 2023: Teaching Assistant for MCG3131 Machine Design
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+
+* Winter 2023: Teaching Assistant for MCG3131 Machine Design
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+
+* Fall 2020: Teaching Assistant for Modern Control Engineering
+  * [Soochow University (苏州大学)](http://eng.suda.edu.cn/)
+  * Instructor: [Prof. Juanjuan Shi](https://web.suda.edu.cn/jshi091/)
+ 
+Awards & Honors
+======
+* **Admission & International Doctoral Scholarship**, University of Ottawa,	2023
+* **Faculty of Engineering Ceremony of Excellence for Graduate Studies**, University of Ottawa, 2022
+* **China Scholarship Council (CSC) Scholarship**, Soochow University, 2021
+* **National Scholarship for Graduate Students**, Soochow University, 2020
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* **Software:** Matlab, Python, SQL, C/C++, C#
+* **Languages:** English, Chinese
+* **Development:** Linux(Ubuntu), Raspberry Pi, Git, Docker, AWS
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ol>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<li><p> <b>Instantaneous frequency synchronized generalized stepwise demodulation transform for bearing fault diagnosis</b><br>
+Juanjuan Shi, <b>Zehui Hua</b>, Weiguo Huang*, Patrick Dumond, Changqing Shen and Zhongkui Zhu
+<i>IEEE Transactions on Instrumentation and Measurement</i>, 2022 <br>
+</p>
+</li>
+
+<li><p> <b>Refined matching linear chirplet transform for exhibiting time-frequency features of nonstationary vibration and acoustic signals</b><br>
+Juanjuan Shi, <b>Zehui Hua</b>, Patrick Dumond, Zhongkui Zhu*, Weiguo Huang and Changqing Shen
+<i>Measurement</i>, 2022 <br>
+</p>
+</li>
+
+<li><p> <b>Matching and reassignment based time-frequency enhancement for rotating machinery fault diagnosis under nonstationary speed operations</b><br>
+<b>Zehui Hua</b>, Juanjuan Shi*, Xingxing Jiang, Yang Luo and Zhongkui Zhu
+<i>Measurement Science and Technology</i>, 2021 <br>
+</p>
+</li>
+
+<li><p> <b>Iterative matching synchrosqueezing transform and application to rotating machinery fault diagnosis under nonstationary conditions</b><br>
+<b>Zehui Hua</b>, Juanjuan Shi*, Yang Luo, Weiguo Huang, Jun Wang and Zhongkui Zhu
+<i>Measurement</i>, 2021 <br>
+</p>
+</li>
+
+<li><p> <b>A generalized instantaneous-frequency-estimation-free stepwise demodulation transform and its application in vibration signal analysis of rotating machinery</b><br>
+Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Feng, Zhongkui Zhu and Lin Kong
+<i>Journal of Vibration and Shock</i>, 2021 <br>
+</p>
+</li>
+
+<li><p> <b>Matching linear chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
+<b>Zehui Hua</b>, Juanjuan Shi*, Zhongkui Zhu
+<i>IEEE Access</i>, 2022 <br>
+</p>
+</li>
+
+<li><p> <b>Matching linear Chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
+<b>Zehui Hua</b>, Juanjuan Shi, Xingxing Jiang and Zhongkui Zhu<br>
+in <i>2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)</i>, 2020 <br>

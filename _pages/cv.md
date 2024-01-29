@@ -59,36 +59,42 @@ Publications
   
 <li><p> <b>Instantaneous frequency synchronized generalized stepwise demodulation transform for bearing fault diagnosis</b><br>
 Juanjuan Shi, <b>Zehui Hua</b>, Weiguo Huang*, Patrick Dumond, Changqing Shen and Zhongkui Zhu
+
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2022 <br>
 </p>
 </li>
 
 <li><p> <b>Refined matching linear chirplet transform for exhibiting time-frequency features of nonstationary vibration and acoustic signals</b><br>
 Juanjuan Shi, <b>Zehui Hua</b>, Patrick Dumond, Zhongkui Zhu*, Weiguo Huang and Changqing Shen
+
 <i>Measurement</i>, 2022 <br>
 </p>
 </li>
 
 <li><p> <b>Matching and reassignment based time-frequency enhancement for rotating machinery fault diagnosis under nonstationary speed operations</b><br>
 <b>Zehui Hua</b>, Juanjuan Shi*, Xingxing Jiang, Yang Luo and Zhongkui Zhu
+
 <i>Measurement Science and Technology</i>, 2021 <br>
 </p>
 </li>
 
 <li><p> <b>Iterative matching synchrosqueezing transform and application to rotating machinery fault diagnosis under nonstationary conditions</b><br>
 <b>Zehui Hua</b>, Juanjuan Shi*, Yang Luo, Weiguo Huang, Jun Wang and Zhongkui Zhu
+
 <i>Measurement</i>, 2021 <br>
 </p>
 </li>
 
 <li><p> <b>A generalized instantaneous-frequency-estimation-free stepwise demodulation transform and its application in vibration signal analysis of rotating machinery</b><br>
 Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Feng, Zhongkui Zhu and Lin Kong
+
 <i>Journal of Vibration and Shock</i>, 2021 <br>
 </p>
 </li>
 
 <li><p> <b>Matching linear chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
 <b>Zehui Hua</b>, Juanjuan Shi*, Zhongkui Zhu
+
 <i>IEEE Access</i>, 2022 <br>
 </p>
 </li>

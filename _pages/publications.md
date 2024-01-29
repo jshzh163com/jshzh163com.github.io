@@ -28,7 +28,7 @@ Juanjuan Shi, <b>Zehui Hua</b>, Weiguo Huang*, Patrick Dumond, Changqing Shen an
 Juanjuan Shi, <b>Zehui Hua</b>, Patrick Dumond, Zhongkui Zhu*, Weiguo Huang and Changqing Shen
 
 <i>Measurement</i>, 2022 <br>
-<a href="https://doi.org/10.1109/TIM.2022.3161696" class="textlink" target="_blank">[pdf]</a>
+<a href="https://doi.org/10.1016/j.measurement.2021.110298" class="textlink" target="_blank">[pdf]</a>
 </p>
 </li>
 

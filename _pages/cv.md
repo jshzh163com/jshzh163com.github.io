@@ -48,7 +48,7 @@ Awards & Honors
   
 Skills
 ======
-------
+
 * **Software:** Matlab, Python, SQL, C/C++, C#
 * **Languages:** English, Chinese
 * **Development:** Linux(Ubuntu), Raspberry Pi, Git, Docker, AWS

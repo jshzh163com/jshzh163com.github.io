@@ -49,7 +49,8 @@ Juanjuan Shi, <b>Zehui Hua</b>, Patrick Dumond, Zhongkui Zhu*, Weiguo Huang and 
 </li>
 
 <li><p> <b>A generalized instantaneous-frequency-estimation-free stepwise demodulation transform and its application in vibration signal analysis of rotating machinery</b><br>
-SHI Juanjuan，<b>HUA Zehui</b>，SHEN Changqing*，JIANG Xingxing，FENG Yixiong and ZHU Zhongkui
+Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Feng, Zhongkui Zhu and Lin Kong
+  
 <i>Journal of Vibration and Shock</i>, 2021 <br>
 <a href="https://doi.org/10.13465/j.cnki.jvs.2021.24.001" class="textlink" target="_blank">[pdf]</a>
 </p>

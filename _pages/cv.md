@@ -21,19 +21,19 @@ Work experience
 ======
 * Winter 2024: Teaching Assistant for MCG3131 Machine Design
   * [University of Ottawa](https://www.uottawa.ca/en)
-  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
 
 * Fall 2023: Teaching Assistant for MCG2108 Mechanics
   * [University of Ottawa](https://www.uottawa.ca/en)
-  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
  
 * Spring/Summer 2023: Teaching Assistant for MCG3131 Machine Design
   * [University of Ottawa](https://www.uottawa.ca/en)
-  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
 
 * Winter 2023: Teaching Assistant for MCG3131 Machine Design
   * [University of Ottawa](https://www.uottawa.ca/en)
-  * Instructor: [Prof. Ashan Ahmed](https://uniweb.uottawa.ca/members/3511)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
 
 * Fall 2020: Teaching Assistant for Modern Control Engineering
   * [Soochow University (苏州大学)](http://eng.suda.edu.cn/)
@@ -94,5 +94,5 @@ Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Fen
 </li>
 
 <li><p> <b>Matching linear Chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
-<b>Zehui Hua</b>, Juanjuan Shi, Xingxing Jiang and Zhongkui Zhu<br>
+<b>Zehui Hua</b>, Juanjuan Shi*, Xingxing Jiang and Zhongkui Zhu<br>
 <i>2020 Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM)</i>, 2020 <br>

@@ -19,6 +19,14 @@ Education
 
 Work experience
 ======
+* Winter 2025: Teaching Assistant for MCG3131 Machine Design
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
+
+* Fall 2024: Teaching Assistant for MCG1105 Engineering Mechanics
+  * [University of Ottawa](https://www.uottawa.ca/en)
+  * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
+
 * Winter 2024: Teaching Assistant for MCG3131 Machine Design
   * [University of Ottawa](https://www.uottawa.ca/en)
   * Instructor: [Prof. Ahsan Ahmed](https://uniweb.uottawa.ca/members/3511)
@@ -56,7 +64,19 @@ Skills
 Publications
 ======
 <ol>
-  
+
+<li><p> <b>Domain-invariant feature exploration for intelligent fault diagnosis under unseen and time-varying working conditions</b><br>
+<b>Zehui Hua</b>*, Juanjuan Shi* and Patrick Dumond<br>
+<i>Mechanical Systems and Signal Processing</i>, 2025 <br>
+</p>
+</li>
+
+<li><p> <b>A structural re-parameterization network for bearing fault diagnosis under variable working conditions</b><br>
+<b>Zehui Hua</b>* and Patrick Dumond<br>
+<i>International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>, 2024 <br>
+</p>
+</li>
+
 <li><p> <b>Instantaneous frequency synchronized generalized stepwise demodulation transform for bearing fault diagnosis</b><br>
 Juanjuan Shi, <b>Zehui Hua</b>, Weiguo Huang*, Patrick Dumond, Changqing Shen and Zhongkui Zhu<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2022 <br>

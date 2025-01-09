@@ -72,6 +72,12 @@ Juanjuan Shi，<b>Zehui Hua</b>，Changqing Shen*，Xingxing Jiang，Yixiong Fen
 
 <ol>
 
+<li><p> <b>A structural re-parameterization network for bearing fault diagnosis under variable working conditions</b><br>
+<b>Zehui Hua</b>* and Patrick Dumond<br>
+<i>2024 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)</i>, 2024<br>
+<a href="https://doi.org/10.1115/DETC2024-143171" class="textlink" target="_blank">[pdf]</a>
+</p>
+</li>
 
 <li><p> <b>Matching linear Chirplet strategy-based synchroextracting transform and its application to rotating machinery fault diagnosis</b><br>
 <b>Zehui Hua</b>, Juanjuan Shi, Xingxing Jiang and Zhongkui Zhu <br>

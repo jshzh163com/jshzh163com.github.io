@@ -17,6 +17,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <ol>
 
+<li><p> <b>Domain-invariant feature exploration for intelligent fault diagnosis under unseen and time-varying working conditions</b><br>
+<b>Zehui Hua</b>*, Juanjuan Shi* and Patrick Dumond<br>
+<i>Mechanical Systems and Signal Processing</i>, 2025 <br>
+<a href="https://doi.org/10.1016/j.ymssp.2024.112193" class="textlink" target="_blank">[pdf]</a>
+</p>
+</li>
+
 <li><p> <b>Instantaneous frequency synchronized generalized stepwise demodulation transform for bearing fault diagnosis</b><br>
 Juanjuan Shi, <b>Zehui Hua</b>, Weiguo Huang*, Patrick Dumond, Changqing Shen and Zhongkui Zhu<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>, 2022 <br>

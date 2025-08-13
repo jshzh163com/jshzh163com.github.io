@@ -37,10 +37,9 @@ Work experience
  
 Awards & Honors
 ======
-* **Admission & International Doctoral Scholarship**, University of Ottawa,	2023
-* **Faculty of Engineering Ceremony of Excellence for Graduate Studies**, University of Ottawa, 2022
-* **China Scholarship Council (CSC) Scholarship**, Soochow University, 2021
-* **National Scholarship for Graduate Students**, Soochow University, 2020
+* **Admission & International Doctoral Scholarship**, University of Ottawa
+* **China Scholarship Council (CSC) Scholarship**, Soochow University
+* **National Scholarship for Graduate Students**, Soochow University
   
 Skills
 ======

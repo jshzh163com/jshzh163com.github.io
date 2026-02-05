@@ -24,12 +24,11 @@ My research interests include nonstationary signal processing, time-frequency an
 
 Recent News
 ======
-* [2026.01] Paper submitted for peer review.
-* [2025.12] Paper submitted for peer review.
-* [2025.05] Paper accepted in *ADVEI*.
-* [2025.05] CSME-CFD-CSR 2025, Montréal.
-* [2024.11] Paper accepted in *MSSP*.
-* [2024.09] 11th/160 in IEEE PHM Beijing Data Challenge.
+
+* 2025.05 Paper accepted in *ADVEI*.
+* 2025.05 CSME-CFD-CSR 2025, Montréal.
+* 2024.11 Paper accepted in *MSSP*.
+* 2024.09 11th/160 in IEEE PHM Beijing Data Challenge.
 * ...
 
 

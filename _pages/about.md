@@ -30,7 +30,7 @@ Recent News
 * 2025.05: CSME-CFD-CSR 2025, Montréal, QC, Canada.<br>
 * 2024.11: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
 * 2024.09: Ranked 11th out of 160 in the IEEE PHM Beijing Data Challenge (team leader).<br>
-* 2024.08: IDETC-CIE 2024, Washington, DS, USA.<br>
+* 2024.08: IDETC-CIE 2024, Washington DC, United States.<br>
 * 2024.05: CSME-CFD 2024, Toronto, ON, Canada.<br>
 * ...<br>
 

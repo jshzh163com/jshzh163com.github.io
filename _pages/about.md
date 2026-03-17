@@ -20,7 +20,7 @@ In 2018, I received my Bachelor's degree in Vehicle Engineering from [Soochow Un
 Research interests
 ======
 
-My research interests include nonstationary signal processing, time-frequency analysis, machine learning, deep transfer learning and their applications to rotating machine fault diagnosis.<br>
+My research interests include nonstationary signal processing, time-frequency analysis, machine learning, deep transfer learning and their applications to rotating machinery fault diagnosis.<br>
 
 Recent News
 ======

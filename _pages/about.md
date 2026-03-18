@@ -43,9 +43,5 @@ Should you have any further interests or questions, please feel free to contact 
 
 Email: zhua079@uottawa.ca <br>
 
-<div style="margin-top: 2rem;">
-  <h3>Visitor Map</h3>
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=IVLg6r6OAAEi-gvJwXfCGhXY3hGaV-BGRSBlgqersV0&cl=ffffff&w=a"></script>
-</div>
 
 

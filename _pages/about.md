@@ -42,3 +42,8 @@ For more
 Should you have any further interests or questions, please feel free to contact me.<br>
 
 Email: zhua079@uottawa.ca <br>
+
+<div style="margin-top: 2rem;">
+  <h3>Visitor Map</h3>
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=cEqfoTln4zgzhbRozKBnyqcgisTVddfeIZLCqxizirM"></script>
+</div>

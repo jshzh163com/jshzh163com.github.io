@@ -25,7 +25,7 @@ I focus on learning-based time-frequency analysis and domain generalization-base
 
 Recent News
 ======
-* 2026.05：CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
+* 2026.05: CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
 * 2026.05: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
 * 2025.11: One paper accepted by *Expert Systems with Applicaitons* (co-author).<br>
 * 2025.09: One paper accepted by *Knowledged-Based Systems* (co-author).<br>

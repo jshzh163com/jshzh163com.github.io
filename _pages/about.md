@@ -13,21 +13,24 @@ redirect_from:
 About me
 =======
 
-I am currently a PhD student in Mechanical Engineering at [University of Ottawa](https://www.uottawa.ca/en), supervised by [Prof. Patrick Dumond](https://engineering.uottawa.ca/people/dumond-patrick).<br>
+In 2026, I received my Ph.D. in Mechanical Engineering from the [University of Ottawa](https://www.uottawa.ca/en), supervised by [Prof. Patrick Dumond](https://engineering.uottawa.ca/people/dumond-patrick).<br>
 In 2021, I received my Master's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/), supervised by [Prof. Juanjuan Shi](https://web.suda.edu.cn/jshi091/).<br>
 In 2018, I received my Bachelor's degree in Vehicle Engineering from [Soochow University](http://eng.suda.edu.cn/).<br>
 
 Research interests
 ======
+My research interests include time-frequency analysis, explainable machine learning algorithms, and their applications in machine fault diagnosis.<br>
 
-My research interests include nonstationary signal processing, time-frequency analysis, explainable machine learning algorithms, and their applications in machine fault diagnosis.<br>
+Research Collaboration
+======
+I am open to research collaborations in nonstationary signal processing, time-frequency analysis, explainable machine learning, and machine fault diagnosis. I welcome inquiries from researchers, engineers, and industry partners who share related interests and are interested in developing collaborative projects.<br>
 
 Recent News
 ======
 * 2026.05: CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
 * 2026.05: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
-* 2025.11: One paper accepted by *Expert Systems with Applicaitons* (co-author).<br>
-* 2025.09: One paper accepted by *Knowledged-Based Systems* (co-author).<br>
+* 2025.11: One paper accepted by *Expert Systems with Applications* (co-author).<br>
+* 2025.09: One paper accepted by *Knowledge-Based Systems* (co-author).<br>
 * 2025.05: One paper accepted by *Advanced Engineering Informatics* (first author).<br>
 * 2025.05: CSME-CFD-CSR 2025, Montréal, QC, Canada.<br>
 * 2024.11: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
@@ -36,12 +39,9 @@ Recent News
 * 2024.05: CSME-CFD 2024, Toronto, ON, Canada.<br>
 * ...<br>
 
-
-
-For more
+Contact
 ======
-
-Should you have any further interests or questions, please feel free to contact me.<br>
+Please feel free to contact me if you are interested in discussing research, collaboration opportunities, or related questions.<br>
 
 Email: zhua079@uottawa.ca <br>
 

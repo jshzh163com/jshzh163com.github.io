@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zehui's website"
 title_separator          : "-"
 name                     : &name "Zehui Hua"
-description              : &description "PhD student at uOttawa"
+description              : &description "PhD at uOttawa"
 url                      : https://jshzh163com.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jshzh163com.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zehui Hua"
   avatar           : "profile.png"
-  bio              : "PhD student at uOttawa"
+  bio              : "PhD at uOttawa"
   location         : "Ottawa, ON, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=o_fLE4YAAAAJ&hl=en"
-  email            :
+  email            : "zhua079@uottawa.ca"
   researchgate     : "https://www.researchgate.net/profile/Zehui-Hua"
   uri              :
   bitbucket        :

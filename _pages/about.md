@@ -27,17 +27,18 @@ I am open to research collaborations in nonstationary signal processing, time-fr
 
 Recent News
 ======
-* 2026.08: One paper accepted by *Advanced Engineering Informatics* (co-author).<br>
-* 2026.05: CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
-* 2026.05: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
-* 2025.11: One paper accepted by *Expert Systems with Applications* (co-author).<br>
-* 2025.09: One paper accepted by *Knowledge-Based Systems* (co-author).<br>
-* 2025.05: One paper accepted by *Advanced Engineering Informatics* (first author).<br>
-* 2025.05: CSME-CFD-CSR 2025, Montréal, QC, Canada.<br>
-* 2024.11: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
-* 2024.09: Ranked 11th out of 160 in the IEEE PHM Beijing Data Challenge (team leader).<br>
-* 2024.08: IDETC-CIE 2024, Washington DC, United States.<br>
-* 2024.05: CSME-CFD 2024, Toronto, ON, Canada.<br>
+* Aug. 2026: One paper accepted by *Advanced Engineering Informatics* (co-author).<br>
+* June 2026: Graduated with a Ph.D. degree in Mechanical Engineering at the University of Ottawa.<br>
+* May 2026: Presented at CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
+* May 2026: A first-author paper was accepted by *Mechanical Systems and Signal Processing*.<br>
+* Nov. 2025: One paper accepted by *Expert Systems with Applications* (co-author).<br>
+* Sep. 2025: One paper accepted by *Knowledge-Based Systems* (co-author).<br>
+* May 2025: A first-author paper was accepted by *Advanced Engineering Informatics*.<br>
+* May 2025: Presented at CSME-CFD-CSR 2025, Montréal, QC, Canada.<br>
+* Nov. 2024: A first-author paper was accepted by *Mechanical Systems and Signal Processing*.<br>
+* Sep. 2024: Ranked 11th among 160 teams in the IEEE PHM Beijing Data Challenge (Team Leader).<br>
+* Aug. 2024: IDETC-CIE 2024, Washington, DC, USA.<br>
+* May 2024: CSME-CFD 2024, Toronto, ON, Canada.<br>
 * ...<br>
 
 Contact

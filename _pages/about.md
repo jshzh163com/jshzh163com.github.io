@@ -23,7 +23,7 @@ My research interests include time-frequency analysis, explainable machine learn
 
 Research Collaboration
 ======
-I am open to research collaborations in nonstationary signal processing, time-frequency analysis, explainable machine learning, and machine fault diagnosis. I welcome inquiries from researchers, engineers, and industry partners who share related interests and are interested in developing collaborative projects.<br>
+I am open to research collaborations in nonstationary signal processing, time-frequency analysis, explainable machine learning, and machine fault diagnosis.<br>
 
 Recent News
 ======

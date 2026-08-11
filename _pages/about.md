@@ -27,6 +27,7 @@ I am open to research collaborations in nonstationary signal processing, time-fr
 
 Recent News
 ======
+* 2026.08: One paper accepted by *Advanced Engineering Informatics* (co-author).<br>
 * 2026.05: CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
 * 2026.05: One paper accepted by *Mechanical Systems and Signal Processing* (first author).<br>
 * 2025.11: One paper accepted by *Expert Systems with Applications* (co-author).<br>

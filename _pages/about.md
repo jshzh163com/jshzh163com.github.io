@@ -30,7 +30,7 @@ Recent News
 * Aug. 2026: One paper accepted by *Advanced Engineering Informatics* (co-author).<br>
 * June 2026: Graduated with a Ph.D. degree in Mechanical Engineering at the University of Ottawa.<br>
 * May 2026: Presented at CSME-CFD-CSR 2026, Vancouver, BC, Canada.<br>
-* May 2026: A first-author paper was accepted by *Mechanical Systems and Signal Processing*. The code is available at: https://github.com/jshzh163com/DIS.<br>
+* May 2026: A first-author paper was accepted by *Mechanical Systems and Signal Processing*. https://github.com/jshzh163com/DIS.<br>
 * Nov. 2025: One paper accepted by *Expert Systems with Applications* (co-author).<br>
 * Sep. 2025: One paper accepted by *Knowledge-Based Systems* (co-author).<br>
 * May 2025: A first-author paper was accepted by *Advanced Engineering Informatics*.<br>

@@ -40,7 +40,8 @@ Recent News
 * May 2025: Presented at CSME-CFD-CSR 2025, Montréal, QC, Canada.<br>
 * Nov. 2024: A first-author paper was accepted by *Mechanical Systems and Signal Processing*.
 <a href="https://doi.org/10.1016/j.ymssp.2024.112193" class="textlink" target="_blank">[link]</a><br>
-* Sep. 2024: Ranked 11th among 160 teams in the IEEE PHM Beijing Data Challenge (Team Leader).<br>
+* Sep. 2024: Ranked 11th among 160 teams in the IEEE PHM Beijing Data Challenge (Team Leader).
+<a href="https://2024.icphm.org/datachallenge/" class="textlink" target="_blank">[link]</a><br>
 * Aug. 2024: Presented at IDETC-CIE 2024, Washington, DC, USA.<br>
 * May 2024: Presented at CSME-CFD 2024, Toronto, ON, Canada.<br>
 * ...<br>
